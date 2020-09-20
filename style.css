@@ -1,0 +1,31 @@
+* {
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 1.2em;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+li {
+    margin-bottom: 10px;
+}
